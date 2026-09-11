@@ -64,7 +64,7 @@ export const appConfig = {
     channelId: "@testimonimts4you",
   },
   mongodb: {
-    uri: process.env.MONGODB_URL, // url mongo mu
+    uri: "mongodb://tokopaneldikxz:Indonesia-01@127.0.0.1:27017/admin?authSource=admin", // url mongo mu
 dbName: "admin",
   },
   socialMedia: {
