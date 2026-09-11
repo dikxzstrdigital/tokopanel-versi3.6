@@ -9,7 +9,7 @@ export const pterodactylConfig = {
   // Private Server Configuration
   private: {
     domain: "https://panel.dikxzhost.biz.id",
-    apiKey: process.env.PANEL_APIKEY_PRIVATE,
+    apiKey: "ptla_nBViOjvUB0XVDeTwEkIAQnzB7gnO4wyPyRN3ywSyuyB",
     nests: "5", 
     eggs: [  
       { id: 15, nama: "Nodejs", harga: 0, catatan: "untuk menjalankan Bot WhatsApp dan Telegram  Node.js" },
@@ -21,7 +21,7 @@ export const pterodactylConfig = {
   // Public Server Configuration
   public: {
     domain: "https://panel.dikxzhost.biz.id",
-    apiKey: process.env.PANEL_APIKEY_PRIVATE,
+    apiKey: "ptla_nBViOjvUB0XVDeTwEkIAQnzB7gnO4wyPyRN3ywSyuyB",
     nests: "5", 
     eggs: [  // Changed from 'egg' to 'eggs' (array)
       { id: 15, nama: "Nodejs", harga: 0, catatan: "untuk menjalankan Bot WhatsApp dan Telegram  Node.js" },
@@ -45,8 +45,8 @@ export const appConfig = {
     replaceLimit: 5, // Limit replace/claim
   },
   pay: {
-    api_key: process.env.SAKURUPIAH_APIKEY,
-    api_id: process.env.SAKURUPIAH_ID,
+    api_key: "Y-qEIblkltfJku7ICrPm5HIYgqTAF9",
+    api_id: "ID-54584541738",
   },
   emailSender: {
     host: "mail.mts4youxd425@gmail.com", // Gmail host
