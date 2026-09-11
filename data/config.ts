@@ -8,7 +8,7 @@ export interface EggConfig {
 export const pterodactylConfig = { 
   // Private Server Configuration
   private: {
-    domain: "https://tokopanel151-private26.panelshop.biz.id",
+    domain: "https://panel.dikxzhost.biz.id",
     apiKey: process.env.PANEL_APIKEY_PRIVATE,
     nests: "5", 
     eggs: [  
@@ -20,7 +20,7 @@ export const pterodactylConfig = {
   },
   // Public Server Configuration
   public: {
-    domain: "https://tokopanel151-private26.panelshop.biz.id",
+    domain: "https://panel.dikxzhost.biz.id",
     apiKey: process.env.PANEL_APIKEY_PRIVATE,
     nests: "5", 
     eggs: [  // Changed from 'egg' to 'eggs' (array)
@@ -65,7 +65,7 @@ export const appConfig = {
   },
   mongodb: {
     uri: process.env.MONGODB_URL, // url mongo mu
-dbName: "Congor",
+dbName: "admin",
   },
   socialMedia: {
     whatsapp: "https://wa.me/6289513452028",
