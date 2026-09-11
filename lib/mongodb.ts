@@ -1,4 +1,5 @@
-import { MongoClient } from "mongodb"
+import { MongoClient } from "mongodb";
+import { attachDatabasePool } from "@vercel/functions";
 import { appConfig } from "@/data/config"
 
 const uri = appConfig.mongodb.uri
