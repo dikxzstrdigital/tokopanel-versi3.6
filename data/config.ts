@@ -37,8 +37,8 @@ export const pterodactylConfig = {
 }
 
 export const appConfig = {
-  whatsappGroupLink: "https://youtu.be/LB-X96DJJf4?si=PfPQDnsZRpGounqv", // link
-  nameHost: "MTS4YOU XD", // nama host 
+  whatsappGroupLink: "", // link
+  nameHost: "TOKOPANEL", // nama host 
   fee: 0.03, // 2%
   garansi: {
     warrantyDays: 35, // Limit hari
@@ -68,12 +68,12 @@ export const appConfig = {
 dbName: "dikxzstore",
   },
   socialMedia: {
-    whatsapp: "https://wa.me/6289513452028",
-    telegram: "https://t.me/mts4youxd",
-    tiktok: "https://www.tiktok.com/@mts4you.xd",
-    instagram: "https://www.instagram.com/ig_mtsstore",
+    whatsapp: "https://wa.me/6285773187691",
+    telegram: "https://t.me/dikz4you01",
+    tiktok: "",
+    instagram: "",
     channelWa: "https://whatsapp.com/channel/0029VbBHzkt1t90Z4H55f638", // link ch wa
-    channelTele: "https://t.me/testimonimts4you", // link ch tele
-    link: "https://lynk.id/scriptnya/page/script-bot-free",
+    channelTele: "https://t.me/", // link ch tele
+    link: "",
   }
 }
