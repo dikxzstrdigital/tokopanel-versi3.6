@@ -59,9 +59,9 @@ export const appConfig = {
     from: "Tukang Panel <mail.mts4youxd425@gmail.com>",
   }, // ganti sendiri 
   telegram: {
-    botToken: "8518039874:AAElA2moZRdCC68vZRvy3YPU5b5qdBtANH0",
-    ownerId: "7015524549",
-    channelId: "@testimonimts4you",
+    botToken: "8816953651:AAEw3VsnweijhbI9DSmbwrXYI-lRYeegiMk",
+    ownerId: "8802354844",
+    channelId: "@infodikxz",
   },
   mongodb: {
     uri: process.env.MONGODB_URL, // url mongo mu
